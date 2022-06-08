@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'Special cable – Made in Germany'}
+        subtitle={'As a cable manufacturer, we are pioneers in communication technology.'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
