@@ -3,7 +3,7 @@
         "productCode": "MJUM8066-GYDZ",
         "name": "RJ45 UTP Cat6A 8P8C 180 Degree Black Keystone Jack TM-8025-UTP With Dustproof Door",
         "vendor": "CHNOK",
-        "price": 75,
+        "price": 15,
         "alt": "rj45-utp",
         "image": "/products/1.webp",
         "colorOptions": [
@@ -23,10 +23,10 @@
         "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
+        "name": "RJ45 UTP Cat6A 8P8C 180 Degree Black",
+        "price": 15,
+        "alt": "rj45-utp",
+        "image": "/products/1.webp",
         "tags": ["woman"],
         "meta": "+ 2 colors"
     }
