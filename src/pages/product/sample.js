@@ -8,9 +8,9 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import Container from '../../components/Container';
 import CurrencyFormatter from '../../components/CurrencyFormatter';
 import Gallery from '../../components/Gallery';
-import SizeList from '../../components/SizeList';
+// import SizeList from '../../components/SizeList';
 import Split from '../../components/Split';
-import SwatchList from '../../components/SwatchList';
+// import SwatchList from '../../components/SwatchList';
 import Layout from '../../components/Layout/Layout';
 
 import { generateMockProductData } from '../../helpers/mock';
@@ -26,10 +26,10 @@ const ProductPage = (props) => {
   const sampleProduct = generateMockProductData(1, 'sample')[0];
   const [qty, setQty] = useState(0);
   const [isWishlist, setIsWishlist] = useState(false);
-  const [activeSwatch, setActiveSwatch] = useState(
-    sampleProduct.colorOptions[0]
-  );
-  const [activeSize, setActiveSize] = useState(sampleProduct.sizeOptions[0]);
+  // const [activeSwatch, setActiveSwatch] = useState(
+  //   sampleProduct.colorOptions[0]
+  // );
+  // const [activeSize, setActiveSize] = useState(sampleProduct.sizeOptions[0]);
   const suggestions = generateMockProductData(4, 'woman');
 
   return (
@@ -56,21 +56,21 @@ const ProductPage = (props) => {
                 <CurrencyFormatter appendZero amount={sampleProduct.price} />
               </div>
 
-              <div>
+              {/* <div>
                 <SwatchList
                   swatchList={sampleProduct.colorOptions}
                   activeSwatch={activeSwatch}
                   setActiveSwatch={setActiveSwatch}
                 />
-              </div>
+              </div> */}
 
-              <div className={styles.sizeContainer}>
+              {/* <div className={styles.sizeContainer}>
                 <SizeList
                   sizeList={sampleProduct.sizeOptions}
                   activeSize={activeSize}
                   setActiveSize={setActiveSize}
                 />
-              </div>
+              </div> */}
 
               <div className={styles.quantityContainer}>
                 <span>Quantity</span>
