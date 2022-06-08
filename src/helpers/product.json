@@ -1,11 +1,11 @@
 [
     {
         "productCode": "MJUM8066-GYDZ",
-        "name": "RJ45 UTP Cat6A 8P8C 180 Degree Black Keystone Jack TM-8025-UTP With Dustproof Door",
+        "name": "New product RJ45 Shielded toolless 180 degree Cat6A STP keystone jack",
         "vendor": "CHNOK",
         "price": 15,
         "alt": "rj45-utp",
-        "image": "/products/1.webp",
+        "image": "/products/1.png",
         "colorOptions": [
             {"color": "#000000", "title": "Anthracite Melange"},
             {"color": "#4D34AE", "title": "Pale Purple"},
@@ -15,18 +15,18 @@
         "wishlist": true,
         "tags": ["sample"],
         "gallery": [
-            {"image": "/products/1.webp", "alt": "pdp description 1"},
-            {"image": "/products/2.webp", "alt": "pdp description 2"},
-            {"image": "/products/3.webp", "alt": "pdp description 3"},
-            {"image": "/products/4.webp", "alt": "pdp description 4"}
+            {"image": "/products/1.png", "alt": "pdp description 1"},
+            {"image": "/products/2.png", "alt": "pdp description 2"},
+            {"image": "/products/3.png", "alt": "pdp description 3"},
+            {"image": "/products/4.png", "alt": "pdp description 4"}
         ],
-        "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
+        "description": "AC 125V, 1.5 AMPS, 500MΩ Min,DC 1000V RMS 50-60Hz Min, 70N between jack and plaug;60N between wire and IDC"
     },
     {
-        "name": "RJ45 UTP Cat6A 8P8C 180 Degree Black",
+        "name": "New product RJ45 Shielded toolless 180 degree Cat6A STP keystone jack",
         "price": 15,
         "alt": "rj45-utp",
-        "image": "/products/1.webp",
+        "image": "/products/1.png",
         "tags": ["woman"],
         "meta": "+ 2 colors"
     }
