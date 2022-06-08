@@ -24,4 +24,4 @@ import * as styles from './SwatchList.module.css';
 //   );
 // };
 
-export default SwatchList;
+// export default SwatchList;

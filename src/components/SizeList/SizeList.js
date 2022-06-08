@@ -27,4 +27,4 @@ import * as styles from './SizeList.module.css';
 //   );
 // };
 
-export default SizeList;
+// export default SizeList;
