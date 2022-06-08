@@ -80,9 +80,9 @@ const Header = (prop) => {
 
   return (
     <div className={styles.root}>
-      <div className={styles.headerMessageContainer}>
-        {/* <span>{bannerMessage}</span> */}
-      </div>
+      {/* <div className={styles.headerMessageContainer}>
+        <span>{bannerMessage}</span>
+      </div> */}
       <Container size={'large'} spacing={'min'}>
         {/* header container */}
         <div className={styles.header}>
